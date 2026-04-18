@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # business_task_managment_app
 
 A Flutter-based Business Task Manager app that helps users organize, track, and manage daily tasks with features like task creation, priority setting, due dates, and progress tracking to improve productivity and workflow management.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# business_task_management_app
+Flutter-based Task Management Application for tracking student enrollments,  courses, and monthly progress with priority-based task management and  statistical analysis.
+>>>>>>> eb34b908f938cbc78d990aa907d0d3cca82b03d8
