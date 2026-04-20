@@ -39,7 +39,13 @@ To run this project on your local machine:
 
 ## 📱 Screenshots & Demo
 
-*(Screenshots coming soon as the UI evolves!)*
+<div align="center">
+  <img src="Screenshot%20(473).png" width="250" />
+  <img src="Screenshot%20(474).png" width="250" />
+  <img src="Screenshot%20(477).png" width="250" />
+  <img src="Screenshot%20(479).png" width="250" />
+  <img src="Screenshot%20(480).png" width="250" />
+</div>
 
 ## 📚 Learning Resources
 
