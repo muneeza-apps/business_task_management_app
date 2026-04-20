@@ -1,22 +1,53 @@
-<<<<<<< HEAD
-# business_task_managment_app
+# 📊 Business Task Management App
 
-A Flutter-based Business Task Manager app that helps users organize, track, and manage daily tasks with features like task creation, priority setting, due dates, and progress tracking to improve productivity and workflow management.
+A sleek, Flutter-based Business Task Manager designed to help users organize, track, and manage daily tasks. The application is built with a focus on improving productivity and workflow management for business operations, specifically tailored for tracking student enrollments, courses, and monthly progress.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* **Task Management**: Easily create, view, and delete daily tasks.
+* **Enrollment Tracking**: Keep track of student enrollments and ongoing courses.
+* **Priority Setting**: Organize tasks based on their priority and urgency.
+* **Progress Tracking**: Monitor monthly progress with statistical analysis to optimize workflows.
+* **Clean UI**: A minimalist and intuitive user interface built with Flutter's Material Design.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+To run this project on your local machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# business_task_management_app
-Flutter-based Task Management Application for tracking student enrollments,  courses, and monthly progress with priority-based task management and  statistical analysis.
->>>>>>> eb34b908f938cbc78d990aa907d0d3cca82b03d8
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/muneeza-apps/business_task_management_app.git
+   cd business_task_management_app
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   flutter clean
+   flutter pub get
+   ```
+
+3. **Run the App:**
+   ```bash
+   flutter run
+   ```
+
+## 🛠️ Technology Stack
+
+* **Frontend**: [Flutter](https://flutter.dev/) (Dart)
+* **UI Components**: Material Design
+* **State Management**: Stateful Widgets (Basic)
+
+## 📱 Screenshots & Demo
+
+*(Screenshots coming soon as the UI evolves!)*
+
+## 📚 Learning Resources
+
+If this is your first Flutter project, here are a few resources to get you started:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Online Documentation](https://docs.flutter.dev/)
+
+---
+*Developed with ❤️ by [Muneeza-apps](https://github.com/muneeza-apps)*
